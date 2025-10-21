@@ -1,0 +1,40 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Build products
+*.app
+Distribution/
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# User-specific files
+.Trash/
+Downloads/
+Desktop/
+Documents/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Applications/
+Google Drive/
+*.py
+*.txt
+myenv/
