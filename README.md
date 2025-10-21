@@ -150,8 +150,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📬 Support
 
 Questions or issues? Feel free to:
-- Open an issue on GitHub
-- Connect with me on LinkedIn
+- [Open an issue on GitHub](https://github.com/danlandau-aif/CommonPlace/issues)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/danlandau/)
 
 ---
 
