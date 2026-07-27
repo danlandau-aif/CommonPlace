@@ -43,7 +43,7 @@ CommonPlace follows your password manager's lead - when it automatically clears 
 
 ```bash
 # Clone the repository
-git clone https://github.com/danlandau-aif/CommonPlace.git
+git clone https://github.com/danlandau321/CommonPlace.git
 cd CommonPlace
 
 # Build the app
@@ -150,7 +150,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📬 Support
 
 Questions or issues? Feel free to:
-- [Open an issue on GitHub](https://github.com/danlandau-aif/CommonPlace/issues)
+- [Open an issue on GitHub](https://github.com/danlandau321/CommonPlace/issues)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/danlandau/)
 
 ---

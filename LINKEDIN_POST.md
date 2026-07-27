@@ -24,7 +24,7 @@ So I built one with Swift + SwiftUI.
 
 The entire codebase is on GitHub - feel free to build it yourself, inspect the code, or contribute improvements.
 
-🔗 GitHub: https://github.com/danlandau-aif/CommonPlace
+🔗 GitHub: https://github.com/danlandau321/CommonPlace
 📥 Download: https://drive.google.com/drive/folders/1yAO0cFg-Nwyq6bPWFI4sHbo-Ev-KoG15
 
 Would love to hear your feedback! What features would make this more useful for your workflow?
@@ -49,7 +49,7 @@ That's why I built CommonPlace - a simple clipboard manager for Mac.
 
 Built it with Swift in a few days, and it's already saved me hours of re-copying things.
 
-🔗 GitHub: https://github.com/danlandau-aif/CommonPlace
+🔗 GitHub: https://github.com/danlandau321/CommonPlace
 📥 Download: https://drive.google.com/drive/folders/1yAO0cFg-Nwyq6bPWFI4sHbo-Ev-KoG15
 
 If you're on a Mac and tired of losing clipboard history, give it a try!
@@ -70,7 +70,7 @@ Why another clipboard manager?
 
 Built with Swift + SwiftUI. Perfect for developers and privacy-conscious Mac users.
 
-GitHub: https://github.com/danlandau-aif/CommonPlace
+GitHub: https://github.com/danlandau321/CommonPlace
 Download: https://drive.google.com/drive/folders/1yAO0cFg-Nwyq6bPWFI4sHbo-Ev-KoG15
 
 #Swift #macOS #OpenSource
